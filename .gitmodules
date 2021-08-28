@@ -1,0 +1,6 @@
+[submodule "20210828/ptgl"]
+	path = 20210828/ptgl
+	url = https://github.com/tsumehashi/ptgl
+[submodule "20210828/ucnoid"]
+	path = 20210828/ucnoid
+	url = https://github.com/tsumehashi/ucnoid
