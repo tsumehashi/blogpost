@@ -4,3 +4,6 @@
 [submodule "20210828/ucnoid"]
 	path = 20210828/ucnoid
 	url = https://github.com/tsumehashi/ucnoid
+[submodule "20210926/ptgl"]
+	path = 20210926/ptgl
+	url = https://github.com/tsumehashi/ptgl.git
